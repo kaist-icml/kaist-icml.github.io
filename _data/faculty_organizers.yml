@@ -1,0 +1,29 @@
+- name: Alice Oh
+  image: alice_oh.jpg
+  affiliation: Professor, KAIST SoC
+  link: https://aliceoh9.github.io/
+
+- name: Hyunwoo J Kim
+  image: hyunwoo_j_kim.jpg
+  affiliation: Associate Professor, KAIST SoC
+  link: https://www.hyunwoojkim.com/
+
+- name: Joyce Jiyoung Whang
+  image: joyce_jiyoung_whang.jpg
+  affiliation: Associate Professor, KAIST SoC
+  link: https://bdi-lab.kaist.ac.kr/
+
+- name: Minhyuk Sung
+  image: minhyuk_sung.png
+  affiliation: Associate Professor, KAIST SoC
+  link: https://mhsung.github.io/
+
+- name: Seong Joon Oh
+  image: seong_joon_oh.jpeg
+  affiliation: Associate Professor, KAIST AI
+  link: https://seongjoonoh.com/
+
+- name: Se-Young Yun
+  image: seyoung_yun.jpg
+  affiliation: Associate Professor, KAIST AI
+  link: https://fbsqkd.github.io/
