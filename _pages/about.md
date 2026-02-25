@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the KAIST @ ICML 2026, a satellite event to meet KAIST faculty and students.
+Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty and students.
 
 * 📅 **Date:** July 6 (Expo & Tutorial Day) 
 * 📍 **Location:** Within walking distance of COEX (the conference venue)
@@ -33,9 +33,41 @@ Welcome to the KAIST @ ICML 2026, a satellite event to meet KAIST faculty and st
 
 ---
 
-## **Organizers**
+## **<span style="color: var(--global-theme-color);">Program</span>**
 
-#### Faculty
+#### **Social lunch/networking**
+
+TBA
+
+#### **Invited Talks**
+
+TBA
+
+#### **Panel Discussions**
+
+TBA
+
+#### **Student Poster**
+
+TBA
+
+---
+
+## **<span style="color: var(--global-theme-color);">Participants</span>**
+
+#### **Confirmed**
+
+Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Niloofar Mireshghallah (CMU), Sharon Li (U Wisconsin), Sungmin Cha (Meta)
+
+#### **Tentative**
+
+Been Kim (Google), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Tristan Naumann (Microsoft)
+
+---
+
+## **<span style="color: var(--global-theme-color);">Organizers</span>**
+
+#### **Faculty**
 
 <div class="organizers-grid">
   {% for organizer in site.data.faculty_organizers %}
@@ -43,7 +75,7 @@ Welcome to the KAIST @ ICML 2026, a satellite event to meet KAIST faculty and st
   {% endfor %}
 </div>
 
-#### Students
+#### **Students**
 
 <div class="organizers-grid">
   {% for organizer in site.data.student_organizers %}
@@ -53,7 +85,7 @@ Welcome to the KAIST @ ICML 2026, a satellite event to meet KAIST faculty and st
 
 ---
 
-## **Sponsors**
+## **<span style="color: var(--global-theme-color);">Sponsors</span>**
 
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4" style="display:flex; align-items:center;">
@@ -64,4 +96,4 @@ Welcome to the KAIST @ ICML 2026, a satellite event to meet KAIST faculty and st
       </div>
 </div>
 
-We sincerely thank [KAIST](https://www.kaist.ac.kr/en/) for financial support and [Elice](https://elice.io/en) for providing the venue.
+We sincerely thank **[KAIST](https://www.kaist.ac.kr/en/)** for financial support and **[Elice](https://elice.io/en)** for providing the venue.
