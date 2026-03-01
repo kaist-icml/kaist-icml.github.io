@@ -28,25 +28,25 @@ Please take whichever bus departs earlier.
 
 **Option 1: Bus 6103**
 
-1. Take Bus 6103  
+1. Take Bus 6103 \[[web](https://www.calt.co.kr/EN/limousine/04.php)\]  
   * Terminal 1: Bus Platform \#7A  
-  * Terminal 2: Bus Platform (B1) \#21  
-2. Get off at **Samsung Station. Grand Intercontinental (삼성역. 그랜드인터컨티넨탈)**  
+  * Terminal 2: Bus Platform \#21 (B1F)  
+2. Get off at **Samsung Station. Grand Intercontinental Hotel. Ktown4u (삼성역. 그랜드인터컨티넨탈)**  
 3. 8-minute walk to Elice
 
 **Option 2: Bus 6703**
 
-1. Take Bus 6703  
+1. Take Bus 6703 \[[web](https://www.klimousine.com/EN/bus/limousine.php?bus_no=6703#inner)\]  
   * Terminal 1: Platform \#3  
-  * Terminal 2: Bus Platform (B1) \#19  
-2. Get off at **Posco Intersection (포스코 사거리)**  
+  * Terminal 2: Bus Platform \#19 (B1F)  
+2. Get off at **Ibis Ambassador Seoul Gangnam Hotel (포스코 사거리. ibis앰배서더강남호텔)**  
 3. 1-minute walk to Elice
 
 <br/>
 
 #### **🚇 By Subway**
 
-1. Take **<span style="color: #0090D2;">Airport Railroad</span>** toward Seoul Station  
+1. Take **<span style="color: #0090D2;">Airport Railroad</span>** toward Gimpo Intl’ Airport and Seoul Station  
    * Board at Incheon Airport (T1 or T2)  
    * Get off at **Gimpo Intl’ Airport Station (김포공항역)**  
 2. Transfer to **<span style="color: #BDB092;">Line 9 Express</span>** toward Magongnaru and VHS Medical Center
