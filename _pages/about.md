@@ -27,7 +27,7 @@ latest_posts:
 Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty and students.
 
 * 📅 **Date:** July 6 (Expo & Tutorial Day) 
-* 📍 **Location:** Within walking distance of COEX (the conference venue)
+* 📍 **Location:** [Within walking distance of COEX (the conference venue)](/venue/)
 * 💬 **Program:** Half-day program with social lunch/networking, invited talks, panel discussions, student posters
 * 👥 **Participants:** Invited non-KAIST researchers & pre-registered KAIST faculty and students
 
@@ -55,13 +55,9 @@ TBA
 
 ## **<span style="color: var(--global-theme-color);">Participants</span>**
 
-#### **Confirmed**
-
-Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Niloofar Mireshghallah (CMU), Sharon Li (U Wisconsin), Sungmin Cha (Meta)
-
 #### **Tentative**
 
-Been Kim (Google), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Tristan Naumann (Microsoft)
+Been Kim (Google), Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Sungmin Cha (Meta), Tristan Naumann (Microsoft)
 
 ---
 
@@ -69,17 +65,17 @@ Been Kim (Google), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley),
 
 #### **Faculty**
 
-<div class="organizers-grid">
+<div class="organizers_horizontal-grid">
   {% for organizer in site.data.faculty_organizers %}
-    {% include organizer_card.liquid organizer=organizer %}
+    {% include organizer_horizontal.liquid organizer=organizer %}
   {% endfor %}
 </div>
 
 #### **Students**
 
-<div class="organizers-grid">
+<div class="organizers_horizontal-grid">
   {% for organizer in site.data.student_organizers %}
-    {% include organizer_card.liquid organizer=organizer %}
+    {% include organizer_horizontal.liquid organizer=organizer %}
   {% endfor %}
 </div>
 
