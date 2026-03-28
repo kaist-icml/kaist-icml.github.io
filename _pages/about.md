@@ -26,9 +26,9 @@ latest_posts:
 
 Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty and students.
 
-* 📅 **Date:** July 6 (Expo & Tutorial Day) 
+* 📅 **Date:** July 6 (Expo & Tutorial Day), One-day event
 * 📍 **Location:** [Within walking distance of COEX (the conference venue)](/venue/)
-* 💬 **Program:** Half-day program with social lunch/networking, invited talks, panel discussions, student posters
+* 💬 **Program:** Morning session for junior researchers (PhD students and Postdocs) who may be interested in faculty positions at KAIST & Afternoon program with social lunch/networking, invited talks, panel discussions, student posters
 * 👥 **Participants:** Invited non-KAIST researchers & pre-registered KAIST faculty and students
 
 ---
@@ -57,7 +57,7 @@ TBA
 
 #### **Tentative**
 
-Been Kim (Google), Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Sungmin Cha (Meta), Tristan Naumann (Microsoft)
+Angela Fan (OpenAI), Been Kim (Google), Dongkwan Kim (Texas A&M), Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Hsuan-Tien Lin (NTU), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Tristan Naumann (Microsoft), Yisong Yue (Caltech), Yoon Kim (MIT)
 
 ---
 
