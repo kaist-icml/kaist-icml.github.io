@@ -57,7 +57,7 @@ TBA
 
 #### **Tentative**
 
-Angela Fan (OpenAI), Been Kim (Google), Dongkwan Kim (Texas A&M), Dongoh Park (Google), Gautam Kamath (U Waterloo/NYU), Hsuan-Tien Lin (NTU), Kilian Weinberger (Cornell), Mateusz Malinowski (Moonvalley), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Tristan Naumann (Microsoft), Yisong Yue (Caltech), Yoon Kim (MIT)
+Angela Fan (OpenAI), Been Kim (Google), Dongoh Park (Google), Gautam Kamath (U Waterloo (NYU)), Hsuan-Tien Lin (NTU), James Landay (Stanford), Kilian Weinberger (Cornell), Kyunghyun Cho (NYU), Mateusz Malinowski (Moonvalley), Mohammad Emtiyaz Khan (RIKEN), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Tristan Naumann (Microsoft), Yisong Yue (Caltech), Yoon Kim (MIT)
 
 ---
 
