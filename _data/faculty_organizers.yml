@@ -3,6 +3,11 @@
   affiliation: Professor, KAIST SoC
   link: https://aliceoh9.github.io/
 
+- name: Hyunwoo Kim
+  image: hyunwoo_kim.jpg
+  affiliation: Assistant Professor, KAIST AI
+  link: https://hyunw.kim/
+
 - name: Hyunwoo J Kim
   image: hyunwoo_j_kim.jpg
   affiliation: Associate Professor, KAIST SoC
@@ -27,3 +32,13 @@
   image: seyoung_yun.jpg
   affiliation: Associate Professor, KAIST AI
   link: https://fbsqkd.github.io/
+
+- name: Sungjin Ahn
+  image: sungjin_ahn.jpg
+  affiliation: Associate Professor, KAIST AI Computing
+  link: https://mlml.kaist.ac.kr/sungjinahn
+
+  - name: Uichin Lee
+  image: uichin_lee.jpg
+  affiliation: Professor, KAIST AI Computing
+  link: https://ic.kaist.ac.kr/
