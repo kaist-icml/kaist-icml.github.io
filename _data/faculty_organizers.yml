@@ -3,15 +3,15 @@
   affiliation: Professor, KAIST SoC
   link: https://aliceoh9.github.io/
 
-- name: Hyunwoo Kim
-  image: hyunwoo_kim.jpg
-  affiliation: Assistant Professor, KAIST AI
-  link: https://hyunw.kim/
-
 - name: Hyunwoo J Kim
   image: hyunwoo_j_kim.jpg
   affiliation: Associate Professor, KAIST SoC
   link: https://www.hyunwoojkim.com/
+
+- name: Hyunwoo Kim
+  image: hyunwoo_kim.jpg
+  affiliation: Assistant Professor, KAIST AI
+  link: https://hyunw.kim/
 
 - name: Joyce Jiyoung Whang
   image: joyce_jiyoung_whang.jpg
