@@ -55,9 +55,19 @@ TBA
 
 ## **<span style="color: var(--global-theme-color);">Participants</span>**
 
-#### **Tentative**
+#### **Confirmed**
 
-Angela Fan (OpenAI), Been Kim (Google), Dongoh Park (Google), Gautam Kamath (U Waterloo (NYU)), Hsuan-Tien Lin (NTU), James Landay (Stanford), Kilian Weinberger (Cornell), Kyunghyun Cho (NYU), Mateusz Malinowski (Moonvalley), Mohammad Emtiyaz Khan (RIKEN), Niloofar Mireshghallah (CMU), Pang Wei Koh (U Washington), Sanmi Koyejo (Stanford), Sharon Li (U Wisconsin), Tristan Naumann (Microsoft), Yisong Yue (Caltech), Yoon Kim (MIT)
+Adish Singla (MPI-SWS),
+Dongkwan Kim (Texas A&M),
+Emtiyaz Khan (RIKEN AIP / TU Darmstadt / Hessian.AI),
+Gautam Kamath (U Waterloo / NYU),
+Hsuan-Tien Lin (NTU),
+Kalika Bali (Microsoft Research India),
+Niloofar Mireshghallah (CMU),
+Sharon Li (U Wisconsin-Madison),
+Xiang Lorriane Li (U Pittsburgh),
+Yoon Kim (MIT),
+Yuntian Deng (U Waterloo)
 
 ---
 
