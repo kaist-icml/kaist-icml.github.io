@@ -53,21 +53,20 @@ TBA
 
 ---
 
-## **<span style="color: var(--global-theme-color);">Participants</span>**
+## **<span style="color: var(--global-theme-color);">Confirmed Participants</span>**
 
-#### **Confirmed**
-
-Adish Singla (MPI-SWS),
-Dongkwan Kim (Texas A&M),
-Emtiyaz Khan (RIKEN AIP / TU Darmstadt / Hessian.AI),
-Gautam Kamath (U Waterloo / NYU),
-Hsuan-Tien Lin (NTU),
-Kalika Bali (Microsoft Research India),
-Niloofar Mireshghallah (CMU),
-Sharon Li (U Wisconsin-Madison),
-Xiang Lorriane Li (U Pittsburgh),
-Yoon Kim (MIT),
-Yuntian Deng (U Waterloo)
+**Adish Singla** (MPI-SWS),
+**Dongkwan Kim** (Texas A&M),
+**Emtiyaz Khan** (RIKEN AIP / TU Darmstadt / Hessian.AI),
+**Gautam Kamath** (U Waterloo / NYU),
+**Hsuan-Tien Lin** (NTU),
+**Kalika Bali** (Microsoft Research India),
+**Niloofar Mireshghallah** (CMU),
+**Sharon Li** (U Wisconsin-Madison),
+**Sungmin Cha** (Meta Superintelligence Labs),
+**Xiang Lorriane Li** (U Pittsburgh),
+**Yoon Kim** (MIT),
+**Yuntian Deng** (U Waterloo)
 
 ---
 
