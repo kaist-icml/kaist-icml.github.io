@@ -18,6 +18,37 @@ _**11-minute walk** from COEX (the conference venue)_
 
 <br/>
 
+_**How to find the event venue**_
+
+<div class="row">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid
+      path="assets/img/bldg_front.jpg"
+      title="Building front"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption large-caption">
+      <ul>
+        <li>The building is located between Starbucks and Suhyup Bank.</li>
+        <li>Look for the <code>elice</code> logo on the building.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid
+      path="assets/img/bldg_gate.jpg"
+      title="Building entrance"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption large-caption">
+      <ul>
+        <li>Enter through this gate and take the elevator to the 5th floor.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 ---
 
 ## **<span style="color: var(--global-theme-color);">How to Get from Incheon International Airport</span>**

@@ -28,28 +28,26 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 
 * 📅 **Date:** July 6 (Expo & Tutorial Day), One-day event
 * 📍 **Location:** [Within walking distance of COEX (the conference venue)](/venue/)
-* 💬 **Program:** Morning session for junior researchers (PhD students and Postdocs) who may be interested in faculty positions at KAIST & Afternoon program with social lunch/networking, invited talks, panel discussions, student posters
+* 💬 **Program:** Morning session for junior researchers (PhD students and Postdocs) who may be interested in faculty positions at KAIST & Afternoon program with social networking, student posters, and panel discussions
 * 👥 **Participants:** Invited non-KAIST researchers & pre-registered KAIST faculty and students
 
 ---
 
-## **<span style="color: var(--global-theme-color);">Program</span>**
+## **<span style="color: var(--global-theme-color);">Afternoon Program</span>**
 
-#### **Social lunch/networking**
-
-TBA
-
-#### **Invited Talks**
-
-TBA
-
-#### **Panel Discussions**
-
-TBA
-
-#### **Student Poster**
-
-TBA
+| **Time**    | **Event**                             | **Notes**  |
+|-------------|---------------------------------------|------------|
+| 12:30–13:00 | Registration                          |            |
+| 13:00–13:10 | Opening remark & sponsor talk         |            |
+| 13:10–13:55 | Panel discussion 1                    | Topic: TBA |
+| 14:10–15:00 | Student posters & social networking 1 |            |
+| 15:10–16:00 | Student posters & social networking 2 |            |
+| 16:15–17:00 | Panel discussion 2                    | Topic: TBA |
+| 17:05–17:50 | Panel discussion 3                    | Topic: TBA |
+| 17:50–18:00 | Clising remark                        |            |
+{: .table}
+{: .table-light}
+{: .table-striped}
 
 ---
 
