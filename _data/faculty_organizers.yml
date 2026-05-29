@@ -1,6 +1,6 @@
 - name: Alice Oh
   image: alice_oh.jpg
-  affiliation: Professor, KAIST SoC
+  affiliation: KAIST Endowed Chair Professor, KAIST SoC
   link: https://aliceoh9.github.io/
 
 - name: Hyunwoo J Kim
@@ -12,6 +12,11 @@
   image: hyunwoo_kim.jpg
   affiliation: Assistant Professor, KAIST AI
   link: https://hyunw.kim/
+
+- name: Jae-Gil Lee
+  image: jae-gil_lee.jpg
+  affiliation: KAIST Endowed Chair Professor, KAIST AI Computing
+  link: https://www.kaistdmlab.org/jaegil
 
 - name: Joyce Jiyoung Whang
   image: joyce_jiyoung_whang.jpg
