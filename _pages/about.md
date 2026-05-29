@@ -62,6 +62,7 @@ TBA
 **Hsuan-Tien Lin** (NTU),
 **Kalika Bali** (Microsoft Research India),
 **Niloofar Mireshghallah** (CMU),
+**Sarah Wiegreffe** (UMD),
 **Sharon Li** (U Wisconsin-Madison),
 **Sungmin Cha** (Meta Superintelligence Labs),
 **Xiang Lorriane Li** (U Pittsburgh),
