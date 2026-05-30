@@ -61,6 +61,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Kalika Bali** (Microsoft Research India),
 **Niloofar Mireshghallah** (CMU),
 **Sarah Wiegreffe** (UMD),
+**Shayne Longpre** (MIT),
 **Sharon Li** (U Wisconsin-Madison),
 **Sungmin Cha** (Meta Superintelligence Labs),
 **Xiang Lorriane Li** (U Pittsburgh),
