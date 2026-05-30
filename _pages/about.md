@@ -28,7 +28,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 
 * 📅 **Date:** July 6 (Expo & Tutorial Day), One-day event
 * 📍 **Location:** [Within walking distance of COEX (the conference venue)](/venue/)
-* 💬 **Program:** Morning session for junior researchers (PhD students and Postdocs) who may be interested in faculty positions at KAIST & Afternoon program with social networking, student posters, and panel discussions
+* 💬 **Program:** Half-day program with social networking, student posters, and panel discussions
 * 👥 **Participants:** Invited non-KAIST researchers & pre-registered KAIST faculty and students
 
 ---
@@ -44,7 +44,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 | 15:10–16:00 | Student posters & social networking 2 |            |
 | 16:15–17:00 | Panel discussion 2                    | Topic: TBA |
 | 17:05–17:50 | Panel discussion 3                    | Topic: TBA |
-| 17:50–18:00 | Clising remark                        |            |
+| 17:50–18:00 | Closing remark                        |            |
 {: .table}
 {: .table-light}
 {: .table-striped}
