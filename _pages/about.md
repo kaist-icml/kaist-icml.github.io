@@ -26,7 +26,7 @@ latest_posts:
 
 Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty and students.
 
-* 📅 **Date:** July 6 (Expo & Tutorial Day), One-day event
+* 📅 **Date:** July 6 (Expo & Tutorial Day), Half-day event
 * 📍 **Location:** [Within walking distance of COEX (the conference venue)](/venue/)
 * 💬 **Program:** Half-day program with social networking, student posters, and panel discussions
 * 👥 **Participants:** Invited non-KAIST researchers & pre-registered KAIST faculty and students
