@@ -60,7 +60,6 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Emtiyaz Khan** (RIKEN AIP / TU Darmstadt / Hessian.AI),
 **Gautam Kamath** (U Waterloo / NYU),
 **Hsuan-Tien Lin** (NTU),
-**Young Kyun Jang** (Google Deepmind),
 **Kalika Bali** (Microsoft Research India),
 **Niloofar Mireshghallah** (CMU),
 **Sarah Wiegreffe** (UMD),
