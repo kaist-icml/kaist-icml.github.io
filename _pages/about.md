@@ -58,6 +58,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Dongkwan Kim** (Texas A&M),
 **Constantin Seibold** (University Clinic Heidelberg),
 **Emtiyaz Khan** (RIKEN AIP / TU Darmstadt / Hessian.AI),
+**Furong Huang** (UMD),
 **Gautam Kamath** (U Waterloo / NYU),
 **Hsuan-Tien Lin** (NTU),
 **Kalika Bali** (Microsoft Research India),
