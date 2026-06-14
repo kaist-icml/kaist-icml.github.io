@@ -54,6 +54,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 ## **<span style="color: var(--global-theme-color);">Confirmed Participants</span>**
 
 **Adish Singla** (MPI-SWS),
+**Amaya Gallagher-Syed** (Imperial College London)
 **Ben Bogin** (Google),
 **Dongkwan Kim** (Texas A&M),
 **Constantin Seibold** (University Clinic Heidelberg),
