@@ -61,6 +61,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Emtiyaz Khan** (RIKEN AIP / TU Darmstadt / Hessian.AI),
 **Furong Huang** (UMD),
 **Gautam Kamath** (U Waterloo / NYU),
+**Hanshen Xiao** (Purdue/NVIDIA),
 **Hsuan-Tien Lin** (NTU),
 **Kalika Bali** (Microsoft Research India),
 **Niloofar Mireshghallah** (CMU),
