@@ -66,6 +66,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Hsuan-Tien Lin** (NTU),
 **Jaehong Yoon** (NTU Singapore),
 **Kalika Bali** (Microsoft Research India),
+**Kyunghyun Cho** (NYU),
 **Niloofar Mireshghallah** (CMU),
 **Sarah Wiegreffe** (UMD),
 **Seonguk Seo** (Meta),
