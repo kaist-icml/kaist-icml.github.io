@@ -37,13 +37,12 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 
 | **Time**    | **Event**                             | **Notes**  |
 |-------------|---------------------------------------|------------|
-| 12:30–13:00 | Registration                          |            |
-| 13:00–13:10 | Opening remark & sponsor talk         |            |
-| 13:10–13:55 | Panel discussion 1                    | Topic: TBA |
-| 14:10–15:00 | Student posters & social networking 1 |            |
-| 15:10–16:00 | Student posters & social networking 2 |            |
-| 16:15–17:00 | Panel discussion 2                    | Topic: TBA |
-| 17:05–17:50 | Panel discussion 3                    | Topic: TBA |
+| 12:30–13:00 | Onsite registration                   |            |
+| 13:00–13:20 | Opening remark & sponsor talk (Elice) |            |
+| 13:30–14:20 | Panel discussion 1: Language model reliability & safety | Moderator: Prof. Se-Young Yun |
+| 14:30–15:50 | Student posters & social networking   |            |
+| 16:00–16:50 | Panel discussion 2: Vision, multimodal AI & agents | Moderator: Prof. Hyunwoo J Kim |
+| 17:00–17:50 | Panel discussion 3: Career advice for junior researchers & students | Moderator: Prof. Hyunwoo Kim |
 | 17:50–18:00 | Closing remark                        |            |
 {: .table}
 {: .table-light}
@@ -57,12 +56,15 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Amaya Gallagher-Syed** (Imperial College London)
 **Ben Bogin** (Google),
 **Dongkwan Kim** (Texas A&M),
+**Doyup Lee** (DirectorLabs),
 **Constantin Seibold** (University Clinic Heidelberg),
 **Emtiyaz Khan** (RIKEN AIP / TU Darmstadt / Hessian.AI),
 **Furong Huang** (UMD),
 **Gautam Kamath** (U Waterloo / NYU),
+**Haewon Jeong** (UCSB / Flatiron Institute),
 **Hanshen Xiao** (Purdue/NVIDIA),
 **Hsuan-Tien Lin** (NTU),
+**Jaehong Yoon** (NTU Singapore),
 **Kalika Bali** (Microsoft Research India),
 **Niloofar Mireshghallah** (CMU),
 **Sarah Wiegreffe** (UMD),
