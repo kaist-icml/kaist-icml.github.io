@@ -75,6 +75,7 @@ Welcome to the **KAIST @ ICML 2026**, a satellite event to meet KAIST faculty an
 **Sungmin Cha** (Meta),
 **Xiang Lorriane Li** (U Pittsburgh),
 **Yoon Kim** (MIT),
+**Young Jin Kim** (Microsoft AI),
 **Young Kyun Jang** (Google Deepmind),
 **Yuntian Deng** (U Waterloo)
 
